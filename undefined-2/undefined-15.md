@@ -1,6 +1,6 @@
 # 문서 제목 규칙 만들기
 
-> **이 작업은** [**템플릿관리자**](undefined/undefined.md) **또는 대표관리자 권한이 필요합니다.**
+> **이 작업은** [**템플릿관리자**](../undefined/undefined.md) **또는 대표관리자 권한이 필요합니다.**
 
 ![](https://www.eformsign.com/kr/support/wp-content/uploads/sites/5/2020/02/document-list.png)
 

@@ -6,7 +6,7 @@
 
 ## 문서 번호 생성하는 방법
 
-> 이 작업은 [**템플릿관리자**](undefined/undefined.md) 또는 **대표관리자** 권한이 필요합니다.
+> 이 작업은 [**템플릿관리자**](../undefined/undefined.md) 또는 **대표관리자** 권한이 필요합니다.
 
 ![&#xBB38;&#xC11C; &#xBC88;&#xD638; &#xBD80;&#xC5EC; &#xC124;&#xC815;&#xD558;&#xB294; &#xD654;&#xBA74;](https://www.eformsign.com/kr/support/wp-content/uploads/sites/5/2020/01/---------------------------.png)
 
@@ -27,7 +27,7 @@
 
 ## 문서 번호 확인하는 방법
 
-생성된 문서 번호는 [문서 컴포넌트를 사용하여 문서 내에 입력](components/undefined-6.md)하거나 문서 목록에서 확인할 수 있습니다.
+생성된 문서 번호는 [문서 컴포넌트를 사용하여 문서 내에 입력](../undefined-5/components/undefined-6.md)하거나 문서 목록에서 확인할 수 있습니다.
 
 ### 문서 내에 문서 번호 표시하기
 
@@ -42,7 +42,7 @@
 
 * 참고
   * [컴포넌트 사용하기: 컴포넌트란?](https://www.eformsign.com/kr/support/manual/components/)
-  * [문서 컴포넌트 사용 방법](components/undefined-6.md)
+  * [문서 컴포넌트 사용 방법](../undefined-5/components/undefined-6.md)
 
 ### 문서 목록에서 문서 번호 확인하기
 
