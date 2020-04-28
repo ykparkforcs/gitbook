@@ -7,7 +7,7 @@
 * [이폼사인 기본 용어](undefined-1/undefined-2.md)
 * [이폼사인 대시보드 메뉴 알아보기](undefined-1/undefined-3.md)
 * [회사 로고와 심볼 등록하기](undefined-1/undefined-6.md)
-* [Untitled](undefined-1/untitled.md)
+* [내 서명 등록하고 사용하기](undefined-1/undefined-7.md)
 
 ## 멤버 관리 <a id="undefined-17"></a>
 
@@ -24,7 +24,6 @@
 * [Untitled](undefined/untitled.md)
 * [회사 정보 수정 및 추가하기](undefined-4.md)
 * [전자 계약서에 서명일 자동으로 입력하기](undefined-5.md)
-* [내 서명 등록하고 사용하기](undefined-7.md)
 * [문서에 도장, 직인 사용하기](undefined-8.md)
 * [components](components/README.md)
   * [컴포넌트 사용하기: 사용일](components/undefined.md)
